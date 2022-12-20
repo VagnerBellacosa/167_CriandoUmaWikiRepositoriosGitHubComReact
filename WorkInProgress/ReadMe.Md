@@ -11,7 +11,8 @@
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Hands-on: Criando Uma Wiki de Repositórios do Github](https://web.dio.me/lab/github/learning/2ef51194-5146-4424-b1f6-3d0332284cad)[Entendendo o Desafio](https://web.dio.me/lab/github/learning/1ca2f2d6-9a6a-43e3-99f0-592261bb4fcd)
+- [Hands-on: Criando Uma Wiki de Repositórios do Github](https://web.dio.me/lab/github/learning/2ef51194-5146-4424-b1f6-3d0332284cad)
+- [Entendendo o Desafio](https://web.dio.me/lab/github/learning/1ca2f2d6-9a6a-43e3-99f0-592261bb4fcd)
 
 
 
